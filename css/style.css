@@ -85,7 +85,8 @@ ul {
 }
 
 .main-footer {
-  height: 275px;
+  height: 400px;
+
 }
 
 .footer-border {
@@ -118,8 +119,13 @@ ul {
 
 @media (min-width: 769px) {
 
+  .main-footer {
+    height: 300px;
+  
+  }
+
   .wrap {
-    min-height: calc(100vh - 275px);
+    min-height: calc(100vh - 300px);
   }
 
   .main-header,
