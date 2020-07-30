@@ -109,6 +109,12 @@ ul {
   padding-top: 10px;
 }
 
+.item-one,
+.item-two,
+.item-three {
+  display: none;
+}
+
 
 
 /* ================================= 
@@ -180,6 +186,16 @@ ul {
     padding-bottom: 25px;
     padding-left: 25px;
     border: none;
+  }
+
+  li.item-zero {
+    display: none;
+  }
+
+  .item-one,
+  .item-two,
+  .item-three {
+    display: initial;
   }
 
   /* .main-nav {
