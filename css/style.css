@@ -186,9 +186,9 @@ ul {
     text-align: center;
   } */
 
-  .img {
+  /* .img {
     width: 100%;
-  }
+  } */
 
   .profile-pic {
     float: right;
@@ -262,6 +262,13 @@ ul {
     margin: 0 auto;
     padding-left: 37px;
   }
+
+  /* .travel-app,
+  .calculator {
+    float: right;
+    width: 32%;
+    margin: 0 auto;
+  } */
 
 
   /* .profile-pic {
