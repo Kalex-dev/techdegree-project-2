@@ -101,11 +101,9 @@ ul {
 
 }
 
-/* .main-nav li {
-  border-top: 2px solid gainsboro;
-  width: 50%;
-  margin: 0 auto;
-} */
+.main-nav li {
+  padding-bottom: 10px;
+}
 
 .profile-pic {
   padding-top: 10px;
