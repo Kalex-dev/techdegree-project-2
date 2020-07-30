@@ -133,6 +133,11 @@ ul {
     margin: 0 auto;
   }
 
+  .footer-para {
+    width: 50%;
+    margin: 0 auto;
+  }
+
   .container {
 		width: 90%;
     margin: 0 auto;
