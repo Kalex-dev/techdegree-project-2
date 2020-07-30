@@ -115,7 +115,7 @@ ul {
   Media Queries
 ==================================== */
 
-@media (min-width: 769px) {
+@media (min-width: 768px) {
 
   .main-footer {
     height: 300px;
@@ -244,6 +244,18 @@ ul {
     float: left;
     padding-bottom: 50px;
     margin: 0;
+  }
+
+  .marketing-page,
+  .search-page,
+  .travel-app,
+  .map-favorites,
+  .photo-gallery,
+  .calculator {
+    float: left;
+    width: 32%;
+    margin: 0 auto;
+    padding-left: 37px;
   }
 
 
