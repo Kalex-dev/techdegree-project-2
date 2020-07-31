@@ -2,9 +2,9 @@
   Base Element Styles
 ==================================== */
 
-/* html {
+html {
   overflow-x: hidden;
-} */
+}
 
 * {
   box-sizing: border-box;
@@ -67,10 +67,11 @@ ul {
   background-size: cover;
   text-align: center;
   margin: 0 auto;
+  /* padding: 30px; */
 }
 
 .student-name {
-  padding-top: 50px;
+  padding-top: 37px;
 }
 
 /* .profile-pic {
@@ -82,7 +83,7 @@ ul {
 }
 
 .container img {
-  width: 100%;
+  width: 90%;
 }
 
 .main-footer {
@@ -125,12 +126,16 @@ ul {
 @media (min-width: 768px) {
 
   .main-footer {
-    height: 300px;
+    height: 325px;
   
   }
 
   .wrap {
     min-height: calc(100vh - 300px);
+  }
+
+  .container img {
+    width: 100%;
   }
 
   .main-header,
@@ -159,8 +164,8 @@ ul {
   .intro-paragraph {
     width: 45%;
     text-align: center;
-    display: inline-block;
-    padding: 30px 0 10px 50px;
+    /* display: inline-block; */
+    padding: 20px 15px 15px 50px;
   }
 
   /* .student-name {
@@ -245,6 +250,10 @@ ul {
 
   .intro-paragraph {
     width: 50%;
+  }
+
+  .container img {
+    width: 100%;
   }
 
   .top-page {
