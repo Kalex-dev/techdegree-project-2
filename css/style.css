@@ -31,7 +31,8 @@ a {
 h1,
 h2,
 h3,
-h4 {
+h4,
+h5 {
 	margin-top: 0;
 }
 
@@ -140,7 +141,7 @@ ul {
   }
 
   .footer-para {
-    width: 50%;
+    width: 40%;
     margin: 0 auto;
   }
 
@@ -148,7 +149,7 @@ ul {
 		width: 90%;
     margin: 0 auto;
     text-align: center;
-    max-width: 725px;
+    max-width: 735px;
   }
 
   .profile-pic {
@@ -277,7 +278,11 @@ ul {
     float: left;
     width: 32%;
     margin: 0 auto;
-    padding-left: 37px;
+    padding-left: 30px;
+  }
+
+  p {
+    font-size: 1em;
   }
 
   /* .travel-app,
