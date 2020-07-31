@@ -163,7 +163,7 @@ ul {
 
   .intro-paragraph {
     width: 45%;
-    text-align: center;
+    text-align: left;
     /* display: inline-block; */
     padding: 20px 15px 15px 50px;
   }
