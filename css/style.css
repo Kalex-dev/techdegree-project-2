@@ -148,6 +148,7 @@ ul {
 		width: 90%;
     margin: 0 auto;
     text-align: center;
+    max-width: 725px;
   }
 
   .profile-pic {
@@ -242,7 +243,7 @@ ul {
   }
 
   .intro-paragraph {
-    width: 55%;
+    width: 50%;
   }
 
   .top-page {
